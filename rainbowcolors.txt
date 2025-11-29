@@ -4,3 +4,4 @@ Yellow is the third color
 Blue
 Green is the fourth color
 Indigo
+Violet
