@@ -5,10 +5,8 @@ Blue
 Green is the fourth color
 Indigo
 Violet
-<<<<<<< HEAD
 indigo
 this is done by prabha
-=======
 this is done by prabha.
 Violet is the last color.
->>>>>>> PrabhaB1210-patch-1
+this is done by sinchana
