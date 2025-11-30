@@ -1,6 +1,3 @@
-<<<<<<< HEAD
 This is main branch content
-=======
 hello from Feature branch content
-
->>>>>>> feature-branch
+hello from branch
