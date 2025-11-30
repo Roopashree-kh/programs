@@ -1,1 +1,6 @@
+<<<<<<< HEAD
 This is main branch content
+=======
+hello from branch
+
+>>>>>>> 7bcb1bb (hello)
